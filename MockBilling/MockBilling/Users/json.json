@@ -1,0 +1,22 @@
+[
+  {
+    "login": "vasia",
+    "password": "123",
+    "playlistId": 1
+  },
+  {
+    "login": "kolia",
+    "password": "123",
+    "playlistId": 2
+  },
+  {
+    "login": "petya",
+    "password": "123",
+    "playlistId": 3
+  },
+  {
+    "login": "jenia",
+    "password": "123",
+    "playlistId": 1
+  }
+]
